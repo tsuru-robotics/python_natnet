@@ -11,3 +11,4 @@ dist/
 htmlcov/
 .benchmarks/
 docs/_build
+*.csv
